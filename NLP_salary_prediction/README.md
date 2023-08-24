@@ -1,4 +1,4 @@
-Kaggle competition: https://www.kaggle.com/competitions/hse-2nd-step-in-nlp-bootcamp
-Topic: NLP
-Type: regression (salary prediction)
-Participation format: late submission
+- Competition: https://www.kaggle.com/competitions/hse-2nd-step-in-nlp-bootcamp
+- Topic: NLP
+- Type: regression (salary prediction)
+- Participation format: late submission
