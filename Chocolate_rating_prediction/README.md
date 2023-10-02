@@ -1,0 +1,5 @@
+- Competition: https://www.kaggle.com/competitions/practical-ml-chocolate/
+- Topic: classical ML
+- Type: regression (chocolate rating prediction)
+- Participation format: real-time
+- Competition rank: 3/38 (as of Oct 02 2023)
